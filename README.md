@@ -1,3 +1,3 @@
 # Avataar-Assignment
 
-Created a fully responsive Website. i am ks
+Created a fully responsive Website. 
