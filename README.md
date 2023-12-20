@@ -1,7 +1,7 @@
 # Avataar-Assignment
 
 # Overview
-Welcome to the repository for our responsive e-commerce website! This project aims to provide a user-friendly online shopping experience with a focus on responsive navigation and a dynamic carousel for featured products.
+Welcome to the repository of my responsive e-commerce website! This project aims to provide a user-friendly online shopping experience focusing on a dynamic navigation bar and a dynamic carousel for featured products.
 
 Features
 1. Dynamic Navigation Bar
