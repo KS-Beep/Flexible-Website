@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAROUSEL</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body onload="autoplay()">
+
+    <!-- ================================
+        This is our Navigation Section 
+    ==================================-->
+
+    <div id="nav-container">
+        <section id="header">
+            <a href="#"><img src="images/logo-1.png" class="logo" alt="" width="80" height="60"></a>
+
+            <nav class="navbar">
+                <ul class="navbar-list ">
+
+                    <li><a class="navbar-link" href="index.html">Home</a></li>
+                    <li><a class="navbar-link" href="shop.html">Shop</a></li>
+                    <li><a class="navbar-link" href="blog.html">Blog</a></li>
+                    <li><a class="navbar-link" href="about.html">About</a></li>
+                    <li><a class="navbar-link" href="contact.html">Contact</a></li>
+                    <li><a class="navbar-link" href="cart.html"><img src="images/cart.png" class="cart" alt="" width="20" height="20"></a></li>
+
+                </ul>
+
+                <!-- Search Panel -->
+            <div class="search-pane">
+                <input type="text" placeholder="Search...">
+                <button type="button">Search</button>
+            </div>
+
+                <img src="images/menu.png" alt="menu-hamburger" class="menu-hamburger" alt="" width="20" height="20">
+
+            </nav>
+            
+
+        </section>
+    </div>
+
+<!--==============================
+    Carousel Window
+================================-->
+
+    <div class="gallery">
+        <div class="gallery-container">
+            <img class="gallery-item gallery-item-1" src="images/women.png" data-index="1">
+            <img class="gallery-item gallery-item-2" src="images/men.png" data-index="2">
+            <img class="gallery-item gallery-item-3" src="images/heels.png" data-index="3">
+            <img class="gallery-item gallery-item-4" src="images/shoes.png" data-index="4">
+            <img class="gallery-item gallery-item-5" src="images/fitness.png" data-index="5">
+            <img class="gallery-item gallery-item-6" src="images/watch.png" data-index="6">
+            <img class="gallery-item gallery-item-7" src="images/accessories.png" data-index="7">
+        </div>
+
+        <div class="navigation">
+            <a class="prev" onclick= "plusSlides(-1)">&larr;</a>
+            <a class="next" onclick= "plusSlides(+1)">&rarr;</a>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
