@@ -1,11 +1,24 @@
-# Avataar-Assignment
+# 🌐 FlexiSlide Website 
+## Avataar Assignment
 
-# Overview
-Welcome to the repository of my responsive e-commerce website! This project aims to provide a user-friendly online shopping experience focusing on a dynamic navigation bar and a dynamic carousel for featured products.
+### Description
+Welcome to the FlexiSlide Website 🚀! This dynamic website project features a responsive carousel and an interactive navigation bar. It is designed to provide a visually appealing and user-friendly experience across various devices.
 
-Features
-1. Dynamic Navigation Bar:
-Our website boasts a responsive navigation system that adapts seamlessly to various screen sizes. Users can easily navigate through categories, products, and other pages on devices of all types.
+### Features 🌈
+#### 🔗 Dynamic Navigation Bar:
+The navigation bar dynamically adjusts to different screen sizes, ensuring a seamless browsing experience.
+Intuitive navigation links for easy access to different sections of the website.
 
-2. Dynamic Carousel:
-The website features a responsive carousel that showcases featured products in an engaging and visually appealing manner. The carousel adjusts to different screen sizes, providing an optimal viewing experience.
+#### 🎠 Responsive Carousel:
+A captivating carousel that adapts to different screen dimensions, showcasing your content effectively.
+Smooth transitions and user-friendly controls enhance the overall viewing experience.
+
+### Technologies Used (from scratch/ No Library used) 💻
+HTML
+CSS
+JavaScript
+
+### Demo 🎥
+[Check out the live demo here!](https://kalpana-srivastava.netlify.app)
+
+Happy coding! 🚀
