@@ -1,7 +1,8 @@
 # 🌐 FlexiSlide Website 
 ## Avataar Assignment
 
-### Description  
+### Description
+  ______________
 Welcome to the FlexiSlide Website 🚀! This dynamic website project features a responsive carousel and an interactive navigation bar. It is designed to provide a visually appealing and user-friendly experience across various devices.
 
 ### Features 🌈
