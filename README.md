@@ -22,7 +22,7 @@ Smooth transitions and user-friendly controls enhance the overall viewing experi
 - JavaScript
 ![HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DHTML&psig=AOvVaw0uem0o7PIeP3MeTNGDkf-X&ust=1703751657008000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjdl9eXr4MDFQAAAAAdAAAAABAD)
 ![CSS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fc%2Fcss-logo%2F&psig=AOvVaw1zNY_NWlqzk3LpgQo6a-YK&ust=1703751773673000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC6x4yYr4MDFQAAAAAdAAAAABAD)
-![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Djavascript%2BLogo&psig=AOvVaw30HWDf6cINXooUqDVveOZO&ust=1703751793873000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjDzJiYr4MDFQAAAAAdAAAAABAD)
+![JavaScript](https://e7.pngegg.com/pngimages/503/848/png-clipart-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text.png)
 
 ### Demo 🎥
 ______________
