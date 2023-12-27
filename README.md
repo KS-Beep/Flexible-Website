@@ -15,7 +15,9 @@ Smooth transitions and user-friendly controls enhance the overall viewing experi
 
 ### Technologies Used (from scratch/ No Library used) 💻
 HTML
+
 CSS
+
 JavaScript
 
 ### Demo 🎥
