@@ -1,5 +1,4 @@
 # 🌐 FlexiSlide Website 
-## Avataar Assignment
 
 ### Description
   ______________
